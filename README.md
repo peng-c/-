@@ -1,2 +1,2 @@
-# -
-the foundation of the Raspberry Pi
+# the foundation of the Raspberry Pi
+
